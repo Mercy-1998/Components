@@ -1,0 +1,12 @@
+.NavBar {
+            top: 19px;
+            left: 88px;
+            width: 163px;
+            height: 29px;
+            text-align: center;
+            font: Heavy 24px/19px;
+            font-family: Lato;
+            letter-spacing: 0.24px;
+            color: #D02220;
+            opacity: 1;
+        }

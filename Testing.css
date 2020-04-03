@@ -1,0 +1,143 @@
+.little-box{
+    width: 68px;
+    height: 50px;
+    margin-left: 35px;
+    font-size: 16px;
+  }
+  
+  #rtext{
+    color: #B91F3B;
+    letter-spacing: 0;
+  }
+  
+  #wtext{
+    color: #1F1D2C;
+    padding-top: 10px;
+  }
+
+.little-box2{
+    width: 150px;
+    margin-left: 35px;
+}
+
+.reff{
+    width: 440px;
+}
+
+.reff input[type=text] {
+    color: #B2B1BA;
+    letter-spacing: 0.64px;
+    height: 40px;  
+    margin-top: 20px;
+    box-shadow: 0px 2px 10px #A8A4BC29;
+    border-radius: 4px;
+    border: 1px solid #E6E6E6;
+    opacity: 1; 
+    text-align: center;
+    margin-left: 35px;
+    font-size: 16px;
+}
+
+#abtn{
+    height: 45px;
+    width: 148px;
+    border: 1px solid #28A562;
+    border-radius: 8px;
+    font-size: 16px;
+    text-align: center;
+    color: #28A562;
+    margin-left: 28px;
+    background-color: #FFFFFF;
+}
+
+.fee-box{
+    height: 22px;
+    width: 300px;
+    margin-left: 35px;
+    margin-top: 30px;
+    color: #333333;
+}
+  
+#left{
+    float: left;
+    font-size: 18px;
+}
+  
+#right{
+    float: right;
+}
+
+.fee-box2{
+    height: 22px;
+    width: 340px;
+    margin-left: 35px;
+    margin-top: 30px;
+    color: #333333;
+}
+
+#left2,
+#left3{
+    float: left;
+    font-size: 16px;
+    letter-spacing: 0;
+}
+
+#right3{
+    float: right;
+    margin-right: 7px;
+}
+
+.Tax-box{
+    width: 340px;
+    margin-left: 35px;
+    margin-top: 10px;
+    font-size: 16px;
+    letter-spacing: 0;
+    color: #333333;
+    opacity: 1;
+}
+
+.pay-box{
+    width: 290px;
+    height: 40px;
+    color: #333333;
+    margin-left: 35px;
+    margin-top: 60px;
+}
+  
+#PA,
+#doll{
+   float: left;
+}
+  
+#dollar,
+#zero,
+#zero2{
+   float: right;
+}
+  
+#zero{
+   font-size: 32px;
+}
+
+#zero2{
+    font-size: 26px;
+    letter-spacing: 0.52px;
+}
+  
+#doll{
+   font-size: 28px;
+}
+  
+#PA{
+   font-size: 18px;
+   margin-top: 10px;
+}
+
+.pay-box2{
+    width: 350px;
+    height: 40px;
+    color: #333333;
+    margin-left: 35px;
+    margin-top: 40px;
+}

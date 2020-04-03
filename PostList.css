@@ -1,0 +1,49 @@
+.glow {
+  border: 2px solid black;
+  margin-left: 30px;
+  margin-top: 100px;
+  width: 1000px;
+  animation: glow 1s ease-in-out infinite alternate;
+  font-size: 80px;
+  text-align: center;
+  text-transform: uppercase;
+  padding: 80px;
+  color: #ffffff;
+  letter-spacing: 5px;
+  background-color: black;
+}
+@keyframes glow {
+  from {
+    text-shadow: 0 0 10px red, 0 0 20px red;
+  }
+
+  to {
+    text-shadow: 0 0 20px red, 0 0 30px red, 0 0 40px red, 0 0 50px red,
+      0 0 60px red, 0 0 70px red, 0 0 80px red;
+  }
+}
+
+/*-------------Boxes--------------*/
+.title-box {
+  background-color: red;
+  height: 35px;
+  width: 100px;
+  border-radius: 4px;
+  text-align: center;
+  padding-top: 12px;
+  padding-bottom: -12px;
+  margin-left: 250px;
+  cursor: pointer;
+}
+.user-box {
+  background-color: red;
+  height: 35px;
+  width: 100px;
+  border-radius: 4px;
+  text-align: center;
+  padding-top: 12px;
+  padding-bottom: -12px;
+  margin-left: 400px;
+  margin-top: -34px;
+  cursor: pointer;
+}
